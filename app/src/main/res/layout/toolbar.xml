@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+  ~ /*
+  ~  *
+  ~  *  * Copyright (c) 2016, Mobilyte Tech India Pvt. Ltd. and/or its affiliates. All rights reserved.
+  ~  *  *
+  ~  *  * Redistribution and use in source and binary forms, with or without
+  ~  *  * modification, are permitted provided that the following conditions are met:
+  ~  *  *
+  ~  *  *  - Redistributions of source code must retain the above copyright
+  ~  *  *    notice, this list of conditions and the following disclaimer.
+  ~  *  *
+  ~  *  *  - Redistributions in binary form must reproduce the above copyright
+  ~  *  *    notice, this list of conditions and the following disclaimer in the
+  ~  *  *    documentation and/or other materials provided with the distribution.
+  ~  *
+  ~  */
+  -->
+
+<android.support.v7.widget.Toolbar xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/toolbar_top"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/colorPrimary"
+    android:minHeight="?attr/actionBarSize"
+    android:theme="@style/toolBarTheme">
+
+    <ImageView
+        android:id="@+id/back"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:src="@drawable/back"
+        android:visibility="gone" />
+
+    <TextView
+        android:id="@+id/toolbar_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text=""
+        android:textColor="@color/white"
+        android:textSize="16sp" />
+
+</android.support.v7.widget.Toolbar>

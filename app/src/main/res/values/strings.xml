@@ -1,0 +1,101 @@
+<resources>
+    <string name="app_name">BarTZar</string>
+
+    <!-- alert dialog button title -->
+    <string name="cancel">Cancel</string>
+    <string name="yes">Yes</string>
+
+    <!-- AED -->
+    <string name="aed">AED</string>
+
+    <!-- Network Connection Error -->
+    <string name="networkConnectionError">Network connection error</string>
+
+    <!-- Formats -->
+    <string name="dateFormat">yyyy-MM-dd HH:mm:ss</string>
+    <string name="timeZone">UTC</string>
+
+    <!-- Preferences -->
+    <string name="preferencesFile">bartzar.prefs</string>
+    <string name="user_id">user_id</string>
+    <string name="user_email">email</string>
+    <string name="user_username">username</string>
+    <string name="fragment">fragment</string>
+
+    <!-- Fragments -->
+    <string name="loginFragmentTag">Login</string>
+    <string name="registerFragmentTag">Register</string>
+    <string name="userDashboardFragmentTag">User Dashboard</string>
+    <string name="selectTableFragmentTag">Select Table</string>
+    <string name="menuCategoryFragmentTag">Menu</string>
+    <string name="menuSubCategoryFragmentTag">SubMenu</string>
+    <string name="cartDetailFragmentTag">Cart Detail</string>
+
+    <!-- login fragment -->
+    <string name="usernameEmail">Username/Email</string>
+    <string name="password">Password</string>
+    <string name="forgotPassword"><u>Forgot Password?</u></string>
+    <string name="login">Login</string>
+    <string name="facebookText">Continue with facebook</string>
+    <string name="registerAs">Register a</string>
+    <string name="newUser"><u>NEW USER ?</u></string>
+
+    <!-- Register fragment -->
+    <string name="username">Username</string>
+    <string name="confirmPassword">Confirm Password</string>
+    <string name="email">Email</string>
+    <string name="registerUser">Register User</string>
+    <string name="memberText">Member</string>
+    <string name="loginUser"><u>LOGIN</u></string>
+
+    <!-- facebook -->
+    <string name="facebook_app_id">913726048753982</string>
+
+    <!-- User Dashboard -->
+    <string name="userDashboardTitle">Dashboard</string>
+    <string name="userDashboardOrderNow">Order Now</string>
+    <string name="userDashboardEventsCalendar">Event Calendar</string>
+    <string name="userDashboardMyOrders">My Orders</string>
+    <string name="userDashboardReservation">Reservation</string>
+
+    <!-- Select Table -->
+    <string name="selectTableTitle">Choose Table</string>
+    <string name="selectTableNumber">Choose Table Number</string>
+    <string name="nextFromTable">Next</string>
+    <!-- Select Table Array -->
+    <string-array name="selectTableNumbers">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array>
+
+    <!-- Menu Category Fragment -->
+    <string name="menuCategoryTitle">Menu</string>
+    <string name="fastReorder">Fast Reorder</string>
+    <string name="search">Search</string>
+
+    <!-- Menu SubCategory Fragment -->
+    <string name="menuSubCategoryTitle">SubMenu</string>
+    <string name="backToHome">Home</string>
+    <string name="backToMenu">Menu</string>
+    <string name="currentSubMenu">SubMenu</string>
+    <string name="reviewAndOrder">Review &amp; Order</string>
+
+    <!-- Cart Detail Fragment -->
+    <string name="cartDetailTitle">Review Order</string>
+    <string name="orderNow">Order Now</string>
+    <string name="schedule">Schedule</string>
+    <string name="noteHint">Add a note to your order</string>
+    <string name="alertDialogTitle">Delete</string>
+    <string name="alertDialogMessage">Are you sure you want to remove this item from cart?</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

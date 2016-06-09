@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#420b08</color>
+    <color name="colorPrimaryDark">#FF3D0401</color>
+    <color name="colorAccent">#ffffff</color>
+
+    <color name="black">#000000</color>
+    <color name="white">#ffffff</color>
+
+    <color name="hintColor">#cf928d</color>
+
+    <color name="editTextColor">#5e0b01</color>
+    <color name="editTextColorBorder">#b3625c</color>
+
+    <color name="buttonNormalTopColor">#a53a1f</color>
+    <color name="buttonNormalBottomColor">#ae2b22</color>
+    <color name="newUserColor">#c9331d</color>
+
+    <color name="facebookBack">#203d69</color>
+    <color name="facebookBorder">#282d48</color>
+
+    <color name="item_background">#956b2f27</color>
+
+    <color name="priceColor">#824c07</color>
+</resources>
